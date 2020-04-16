@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "Checking",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "checking the list",
+      "id": 2
+    },
+    {
+      "title": "with userId",
+      "description": "another check",
+      "userId": "111934286538020495717",
+      "id": 3
+    },
+    {
+      "title": "checking histor",
+      "description": "CHecking if the router is working or not",
+      "userId": "111934286538020495717",
+      "id": 4
+    }
+  ]
+}
